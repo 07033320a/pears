@@ -32,5 +32,5 @@ INSERT INTO ROLES_RESOURCES (ROLE_ID, RESOURCE_ID) VALUES (3,2);
 INSERT INTO USERS_ACCESSTOKEN (USER_ID, ACCESS_TOKEN, PERSISTENT) VALUES (1,'1234567890',TRUE);
 
 INSERT INTO LIST_SAMPLE (index,title,author,status,pageviews,display_time) VALUES (0,'test_title','Acer','published',222,'2018-01-01');
-INSERT INTO LIST_SAMPLE (index,title,author,status,pageviews,display_time) VALUES (0,'test_title2','Mark','draft',222,'2018-02-11');
+INSERT INTO LIST_SAMPLE (index,title,author,status,pageviews,display_time) VALUES (0,'资本论','Mark','draft',222,'2018-02-11');
 INSERT INTO LIST_SAMPLE (index,title,author,status,pageviews,display_time) VALUES (0,'sdf','Leo','deleted',222,'2018-01-01');
