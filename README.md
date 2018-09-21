@@ -1,2 +1,2 @@
 # pears
-1、技术栈：vuejs+ElementUI+SpringBoot
+1、技术栈：vuejs+ElementUI+SpringBoot+h2
